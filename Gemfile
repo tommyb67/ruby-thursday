@@ -48,5 +48,6 @@ group :development, :test do
     gem 'simple_bdd'
     gem 'shoulda-matchers'
     gem 'spring'
+    gem 'devise'
 end
 

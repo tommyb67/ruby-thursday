@@ -76,4 +76,8 @@ Rails.application.configure do
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
+
+
+   ##### NEED TO UPDATE TO HEROKU ADDRESS WHEN LIVE ########################
+  ######config.action_mailer.default_url_options = { host: 'http://rocky-escarpment-9972.herokuapp.com/' }
 end
